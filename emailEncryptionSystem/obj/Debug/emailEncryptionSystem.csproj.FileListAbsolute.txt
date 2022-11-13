@@ -20,3 +20,14 @@ E:\uni\IS\project\messageCryptography\emailEncryptionSystem\obj\Debug\emailEncry
 E:\uni\IS\project\messageCryptography\emailEncryptionSystem\bin\Debug\emailEncryptionSystem.exe.config
 E:\uni\IS\project\messageCryptography\emailEncryptionSystem\bin\Debug\emailEncryptionSystem.exe
 E:\uni\IS\project\messageCryptography\emailEncryptionSystem\bin\Debug\emailEncryptionSystem.pdb
+C:\Users\Hp\Desktop\MessageCryptography\emailEncryptionSystem\bin\Debug\emailEncryptionSystem.exe.config
+C:\Users\Hp\Desktop\MessageCryptography\emailEncryptionSystem\bin\Debug\emailEncryptionSystem.exe
+C:\Users\Hp\Desktop\MessageCryptography\emailEncryptionSystem\bin\Debug\emailEncryptionSystem.pdb
+C:\Users\Hp\Desktop\MessageCryptography\emailEncryptionSystem\obj\Debug\emailEncryptionSystem.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\MessageCryptography\emailEncryptionSystem\obj\Debug\emailEncryptionSystem.Form1.resources
+C:\Users\Hp\Desktop\MessageCryptography\emailEncryptionSystem\obj\Debug\emailEncryptionSystem.Properties.Resources.resources
+C:\Users\Hp\Desktop\MessageCryptography\emailEncryptionSystem\obj\Debug\emailEncryptionSystem.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\MessageCryptography\emailEncryptionSystem\obj\Debug\emailEncryptionSystem.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\MessageCryptography\emailEncryptionSystem\obj\Debug\emailEncryptionSystem.exe
+C:\Users\Hp\Desktop\MessageCryptography\emailEncryptionSystem\obj\Debug\emailEncryptionSystem.pdb
+C:\Users\Hp\Desktop\MessageCryptography\emailEncryptionSystem\obj\Debug\emailEncryptionSystem.Main_Menucs.resources
